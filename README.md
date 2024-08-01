@@ -20,15 +20,11 @@ Cypress
 Instalación
 Clona el repositorio:
 
-sh
-
 Copiar código
 
 git clone https://github.com/yourusername/your-repo-name.git cd your-repo-name
 
 Instala las dependencias:
-
-sh
 
 Copiar código
 
@@ -36,15 +32,12 @@ npm install
 
 Instala Cypress si no está instalado:
 
-sh
-
 Copiar código
 
 npm install cypress --save-dev
 
 Instala el plugin cypress-wait-until:
 
-sh
 
 Copiar código
 
