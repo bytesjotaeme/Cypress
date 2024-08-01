@@ -1,6 +1,14 @@
 # Pruebas de Cypress para Validación de Cuotas en la Tienda Online de Movistar
 
+## Introducción
+
 Este proyecto contiene una suite de pruebas de Cypress para validar las opciones de cuotas disponibles al comprar un Samsung Galaxy A14 4G en la tienda online de Movistar.
+
+## Entorno de Desarrollo
+
+- **Sistema Operativo**: Windows 10 Pro
+- **PC**: Ryzen 5, 16GB RAM, SSD 222GB
+- **Navegador Utilizado para Testing**: Google Chrome v127
 
 ## Descripción
 
