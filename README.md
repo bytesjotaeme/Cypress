@@ -59,8 +59,8 @@ Esta suite de pruebas realiza las siguientes acciones:
 4.  Abre el modal de cuotas.
 5.  Selecciona el primer banco y tarjeta disponibles.
 6.  Valida que exista la opción de pagar en 3 cuotas sin interés.
-7.  Repite la validación para todos los bancos disponibles.
 
+ 
 2.  ## 2. **CP002 - Aplicar filtro de equipos  
 
 **Descripción:** Este test verifica que los filtros de precio y memoria en la tienda en línea de Movistar funcionan correctamente y se aplican como se espera.
