@@ -39,8 +39,17 @@ Antes de ejecutar las pruebas, asegúrate de tener instalados los siguientes pro
 
 Los archivos principales de interés son:
 
--   `cypress/support/page_objects/HomePage.js`: Contiene la clase HomePage con métodos para interactuar con la página.
--   `cypress/integration/spec001_validar_cuotas.js`: Contiene la suite de pruebas para validar las cuotas.
+Contiene la clase HomePage con métodos para interactuar con la página.
+-   `cypress/support/page_objects/HomePage.js`: 
+- -   `cypress/support/page_objects/HomePage2.js`
+- -   `cypress/support/page_objects/HomePage3.js`
+- -   `cypress/support/page_objects/HomePage4.js`
+ 
+Contiene la suite de pruebas
+-   `cypress\e2e\CP001_validar_cuotas.cy.js`
+-   `cypress\e2e\CP002_Aplicar_filtro_de_equipos.cy.js`
+-   `cypress\e2e\CP003_Validar_cuotas_en_compra_de_equipo.cy.js`
+-   `cypress\e2e\CP004 _Simulacion_de_compra.cy.js`
 
 ## Ejecución de las Pruebas
 
